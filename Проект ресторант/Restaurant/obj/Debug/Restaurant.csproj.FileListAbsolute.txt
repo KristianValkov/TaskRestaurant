@@ -1,0 +1,64 @@
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.Form2.resources
+C:\Users\Admin\source\repos\Кристиан Вълков\Restaurant\obj\Debug\Restaurant.UserControl1.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.Form2.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.UserControl1.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.UserControl2.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.UserControl3.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.UserControl4.resources
+C:\Users\Admin\Desktop\Проект рестурант\Restaurant\obj\Debug\Restaurant.UserControl5.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.Form2.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl1.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl2.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl3.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl4.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl5.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.Form2.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl1.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl2.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl3.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl4.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.UserControl5.resources
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Admin\Desktop\TaskRestaurant-main\Проект ресторант\Restaurant\obj\Debug\Restaurant.pdb
